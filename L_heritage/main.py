@@ -21,6 +21,7 @@ class Voiture(Vehicule):
 
 print("extension la class fille")
 v2 = Voiture("ferrari",8,58)
+print(v2.marque)
 v2.frainner()
 
  
